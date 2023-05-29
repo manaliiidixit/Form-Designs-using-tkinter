@@ -1,0 +1,24 @@
+Acc Master
+name
+phone 3
+code
+city
+
+item master
+no
+category-food,nails-form
+name
+quantity
+rs for rent and for sale
+gst-c and s 
+
+employee
+code 
+name
+contact
+
+reference
+no name
+
+
+
